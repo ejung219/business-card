@@ -3,7 +3,7 @@
 
 ---
 | Field | Details |
-|:-------|:---------|
+| :------- | :-------- |
 | Name | Emma |
 | Role | Information design Student |
 | Interests | Environmental humanities |
