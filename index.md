@@ -1,9 +1,10 @@
 # Emma
 *Information design student*
+
 ---
 | Field | Details |
 |:-------|:---------|
-| Name | Emma Jungwirth |
+| Name | Emma |
 | Role | Information design Student |
 | Interests | Environmental humanities |
 
