@@ -2,6 +2,7 @@
 *Information design student*
 
 ---
+
 | Field | Details |
 | ------- | -------------------------- |
 | Name | Emma                          |
